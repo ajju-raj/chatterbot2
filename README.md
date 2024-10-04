@@ -1,4 +1,3 @@
-```markdown
 # Real-time Chatbot with OpenAI API using Next.js
 
 This repository contains a small project that demonstrates how to create a real-time chatbot using the OpenAI API. The project is built with [Next.js](https://nextjs.org/) and deployed on [Vercel](https://vercel.com/).
@@ -95,4 +94,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - [OpenAI](https://openai.com/) for providing the API.
 - [Next.js](https://nextjs.org/) for the web framework.
 - [Vercel](https://vercel.com/) for hosting.
-```
